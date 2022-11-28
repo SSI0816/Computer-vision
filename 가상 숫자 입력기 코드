@@ -1,7 +1,7 @@
 가상 숫자 인식기
 
 코드
-...
+```
 include<iostream>
 #include<opencv2/opencv.hpp> // 헤더파일 포함
 #include<cmath>
@@ -135,4 +135,4 @@ int main()
 	cout << classNames[maxLoc.x] << endl;
 	return 0;
 }
-...
+```
